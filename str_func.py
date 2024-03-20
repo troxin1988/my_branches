@@ -4,5 +4,5 @@ def upper_func(string: str) -> str:
 
 
 def title_func(string: str) -> str:
-    """Функция возвращает строку, где каждое слово с заглавной буквы"""
+    """Функция возвращает строку, где каждое слово с заглавной буквы."""
     return string.title()
